@@ -2,6 +2,8 @@
 # Coffee Sales Dashboard using Microsoft Excel
 The Coffee Sales Dashboard is designed to provide a comprehensive view of coffee sales data from 2019 to 2022. It allows users to analyze sales trends over time, filter data by month, year, quarter, and day, and visualize sales by country and coffee type. The dashboard also includes a section highlighting the top 5 customers. The data for this dashboard was obtained from Kaggle and includes orders, customers, and products tables.
 ## Screenshot
+![dashboard](https://github.com/sharathkumar1996/Coffee-Sales-Dashboard/assets/29219631/765e1511-2844-42fb-a5a3-7e7121648885)
+
 
 ## Features
 1. Time-based Analysis: Users can view sales trends over time, from 2019 to 2022, and filter data by month, year, quarter, and day to gain insights into seasonal variations and sales patterns.
